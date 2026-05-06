@@ -135,10 +135,9 @@ OneStopShop/
 ---
 
 ## Screenshots
-<img width="1919" height="1019" alt="Screenshot 2026-05-06 184957" src="https://github.com/user-attachments/assets/1ff74369-c479-4a29-a836-d6cedc647b89" />
-<img width="1919" height="1003" alt="Screenshot 2026-05-06 185520" src="https://github.com/user-attachments/assets/92f89cce-45d5-4814-91d6-72c9593cbf27" />
-<img width="1919" height="1020" alt="Screenshot 2026-05-06 185739" src="https://github.com/user-attachments/assets/616d5f59-bcfe-417a-a0e4-fc6e91e0a6a3" />
-<img width="1919" height="1018" alt="Screenshot 2026-05-06 185754" src="https://github.com/user-attachments/assets/c4ec7b74-1813-41d9-8e97-defab26608b6" />
-
+<img width="1919" height="1019" alt="Screenshot 2026-05-06 184957" src="https://github.com/user-attachments/assets/3cc9a9e6-355d-44d6-93b8-37af03b6a374" />
+<img width="1919" height="1003" alt="Screenshot 2026-05-06 185520" src="https://github.com/user-attachments/assets/959ab88a-a198-42a3-87a7-376fa783baca" />
+<img width="1919" height="1020" alt="Screenshot 2026-05-06 185739" src="https://github.com/user-attachments/assets/ef8aafee-18a1-4a15-b8c3-8b830cc0ccb6" />
+<img width="1919" height="1018" alt="Screenshot 2026-05-06 185754" src="https://github.com/user-attachments/assets/48d92d7b-88de-46c9-b946-c8a4f63bda25" />
 
 
